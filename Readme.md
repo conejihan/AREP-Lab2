@@ -20,7 +20,7 @@ Además de esto, este tiene como componentes el BackEnd y el FrontEnd, en donde 
 Para ejecutar el proyecto se puede realizar de tres maneras:
  * Primero clonamos el repositorio por medio del comando desde el cmd y la ubicación donde queremos guardar.
  
-   ```git clone https://github.com/conejihan/AREP-Lab3```
+   ```git clone https://github.com/conejihan/AREP-Lab2```
 
 * Despues compilamos el proyecto por medio del siguiente comando.
     
